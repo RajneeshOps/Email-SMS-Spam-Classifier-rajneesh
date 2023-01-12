@@ -1,17 +1,21 @@
 # Email-SMS-Spam-Classifier-rajneesh-: https://ai-rajneesh-email-sms-spam-classifier-rajneesh-app-bx3u7c.streamlit.app/
 
-# Building a machine learning model for classifying email and SMS messages as spam or not spam typically involves the following steps:-
-# 1.Data Cleaning
-# 2.EDA(Exploratory Data Analysis)
-# 3.Text Preprocessing
-# 4.Model Building
-# 5.Evaluation
-# 6.optimize
-# 7.Test the model: Use the test set to evaluate the model's performance on unseen data and ensure that it generalizes well to new examples.
-# 8.Deploy the model: Once the model has been trained and tested, it can be deployed for use in a production environment.
-# Monitor and maintain: The model performance may degrade over time, so it's important to monitor the model's performance and retrain it as necessary. Also, update the dataset with new data to improve the model's performance.
+## Building a machine learning model for classifying email and SMS messages as spam or not spam typically involves the following steps:-
+### 1.Data Cleaning
+### 2.EDA(Exploratory Data Analysis)
+### 3.Text Preprocessing
+### 4.Model Building
+### 5.Evaluation
+### 6.optimize
+### 7.Test the model:-
+Use the test set to evaluate the model's performance on unseen data and ensure that it generalizes well to new examples.
+### 8.Deploy the model:- 
+Once the model has been trained and tested, it can be deployed for use in a production environment.
+### Monitor and maintain:-
+The model performance may degrade over time, so it's important to monitor the model's performance and retrain it as necessary. Also, update the dataset with new data to improve the model's performance.
 
-# Email/SMS Spam Classifier:-This machine learning model is designed to classify email and SMS messages as spam or not spam. The model is trained on a dataset of labeled examples, and can be used to classify new, unseen messages.
+# Email/SMS Spam Classifier:-
+This machine learning model is designed to classify email and SMS messages as spam or not spam. The model is trained on a dataset of labeled examples, and can be used to classify new, unseen messages.
 
 The training process involves feeding the model a large number of labeled examples, and adjusting the model's internal parameters so that it can correctly classify new, unseen examples. Once the model is trained, it can be used to classify new incoming messages as either email or SMS.
 
